@@ -10,7 +10,19 @@
 
 **O QUE APRENDI**
 
-DESCRIÇÃO
+- INSTAÇÃO DO SDK E ANDROID STUDIO
+- ESTRUTURA DE PASTAS
+- MONTAGEM DE LAYOUT 
+- DESENVOLVIMENTO BÁSICO NA MAINACTIVITY
+
+## Preview :framed_picture:
+
+<img src="github/tela1.png" title="Tela 1" alt="Tela 1" height="300">
+
+<img src="github/tela2.png" title="Tela 2" alt="Tela 2" height="300">
+
+<img src="github/tela3.png" title="Tela 3" alt="Tela 3" height="300">
+
 
 
 
